@@ -1,0 +1,11 @@
+7 7
+ppppppp
+pellllp
+plplppp
+plplllp
+plplppp
+pllllsp
+ppppppp
+
+
+xterm -T $TITLE -e
